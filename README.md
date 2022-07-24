@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin-Recipes
+Recipes from around the world!
